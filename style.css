@@ -105,7 +105,11 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    padding: 400px;
+    padding: 175px;
     background: url(paper_background.svg);
     background-color: #A25430; 
+}
+
+.second_content_title {
+    display: flex;
 }
